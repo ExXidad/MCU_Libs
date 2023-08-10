@@ -1,0 +1,9 @@
+[submodule "CMSIS-DSP"]
+	path = CMSIS-DSP
+	url = https://github.com/ARM-software/CMSIS-DSP.git
+[submodule "eigen"]
+	path = eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "etl"]
+	path = etl
+	url = https://github.com/ETLCPP/etl.git

@@ -1,0 +1,3 @@
+add_library(PeripheralCommunication INTERFACE)
+target_include_directories(PeripheralCommunication INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
+message("Added PeripheralCommunication library")
